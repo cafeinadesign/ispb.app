@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "99Pay",
+    "operator": "99 Tecnologia Ltda.",
+    "parentCompany": "DiDi Global",
+    "relatedInstitutionName": "99PAY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ispb": null,
+    "cnpj": null,
+    "relationshipType": "brand_operator",
+    "confidence": "medium",
+    "reviewStatus": "draft",
+    "notes": "Exemplo inicial para estruturar a curadoria. Não publicar como confirmado até revisão manual de fontes.",
+    "sources": [
+      {
+        "title": "Site oficial 99Pay",
+        "url": "https://99app.com/99pay/"
+      }
+    ]
+  },
+  {
+    "brand": "iFood Pago",
+    "operator": "iFood.com Agência de Restaurantes Online S.A.",
+    "parentCompany": "iFood",
+    "relatedInstitutionName": "IFOOD PAGAMENTOS",
+    "ispb": null,
+    "cnpj": null,
+    "relationshipType": "brand_operator",
+    "confidence": "medium",
+    "reviewStatus": "draft",
+    "notes": "Exemplo inicial para estruturar a curadoria. Não publicar como confirmado até revisão manual de fontes.",
+    "sources": [
+      {
+        "title": "Site oficial iFood Pago",
+        "url": "https://www.ifood.com.br/"
+      }
+    ]
+  }
+]
